@@ -1,4 +1,4 @@
-# server-status-api
+# server-status-api: API para consultar o status do servidor
 
 :rocket: Projeto desenvolvido para a aula de introdução ao [Node.js](https://nodejs.org) :rocket:
 
@@ -31,7 +31,7 @@
 
 ## Descrição do projeto :1st_place_medal:
 
-  API em [Node.js](https://nodejs.org) para retornar informações sobre o servidor.
+  API em [Node.js](https://nodejs.org) para verificar o status e retornar informações sobre o servidor.
 
 ## Funcionalidades :heavy_exclamation_mark:
 
@@ -53,7 +53,7 @@
 ## Pacotes e Plugins :stuck_out_tongue_winking_eye:
 
 | Name | Link | Ambiente |
-| ---------- | ------ |
+| ---------- | ------ | ---------- |
 | Editor Config | [https://editorconfig.org](https://editorconfig.org) | Desenvolvimento |
 | ESLint | [https://eslint.org](https://eslint.org) | Desenvolvimento |
 | Nodemon | [https://nodemon.io](https://nodemon.io) | Desenvolvimento |
