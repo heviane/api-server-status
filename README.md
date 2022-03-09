@@ -1,6 +1,6 @@
 # server-status-api
 
-Projeto de introdução ao [Node.js](https://nodejs.org)
+Projeto desenvolvido na aula de introdução ao [Node.js](https://nodejs.org)
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green"/>
@@ -27,7 +27,7 @@ Projeto de introdução ao [Node.js](https://nodejs.org)
 
 :small_blue_diamond: [Desenvolvedores](#desenvolvedores-octocat)
 
-:small_blue_diamond: [Licença](#licença)
+:small_blue_diamond: [Licence](#licence)
 
 ## Descrição do projeto 🏆
 
@@ -43,17 +43,12 @@ Projeto de introdução ao [Node.js](https://nodejs.org)
 
 ## Deploy da Aplicação :dash
 
-> Link do deploy da aplicação no **Heroku**: [https://api-monitor-memory.herokuapp.com](https://api-monitor-memory.herokuapp.com)
-
-> Usado script "start" para iniciar o servidor em produção:
-
-```
-npm start
-```
+> **Heroku**: [https://peaceful-basin-19013.herokuapp.com](https://peaceful-basin-19013.herokuapp.com)
 
 ## Pré-requisitos :rocket
 
-:warning: [Node](https://nodejs.org)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Node](https://nodejs.org)
 
 ## Pacotes e Plugins 🛠️
 
@@ -84,7 +79,7 @@ Instale as dependências:
 npm install
 ```
 
-Inicie o servidor em ambinete de desenvolvimento com nodemon:
+Inicie o servidor em ambiente de desenvolvimento com nodemon:
 
 ```
 npm run dev
@@ -96,15 +91,15 @@ Em [issues](https://github.com/heviane/server-status-api/issues) foram abertos a
 
 ## Tarefas em aberto
 
-:memo: Tarefa 1: Construir UI em React para consumir essas APIs.
+:memo: Tarefa 1: Construir UI em React para consumir essa API.
 
 :memo: Tarefa 2
 
 ## Desenvolvedores :octocat
 
-[<img src="./src/assets/img/ProfilePicture.jpeg" width=115><br><sub>Heviane Bastos</sub>](https://github.com/heviane)
+[<img src="./src/img/ProfilePicture.jpeg" width=115><br><sub>Heviane Bastos</sub>](https://github.com/heviane)
 
-## Licença
+## Licence
 
 The [MIT License](https://github.com/heviane/api-monitor-memory/blob/main/LICENSE) (MIT)
 

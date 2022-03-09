@@ -3,14 +3,10 @@ const soStatus = require('./src/soStatus');
 const memoryStatus = require('./src/memoryStatus');
 const networkStatus = require('./src/networkStatus');
 
-// const config = require('./src/assets/config/default.json');
-// const config = require('./src/assets/config/production.json');
-
 // TODO: Criar UI em React para consumir esta API (server-status-ui)
 
-// console.log(config);
-const host = 'localhost'; // config.server.api.host;
-const port = '3000'; // config.server.api.port;
+const host = 'localhost'; 
+const port = '3000'; 
 
 let description = '<h1>Server Status (API) in Node.js</h1>';
 description += '<h3>Endpoints disponiveis:</h3>';
