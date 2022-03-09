@@ -1,6 +1,6 @@
 const http = require('http'); 
 // const soStatus = require('./src/soStatus');
-const memoryStatus = require('./memoryStatus');
+const memoryStatus = require('./src/memoryStatus');
 // const networkStatus = require('./src/networkStatus');
 
 // const config = require('./src/assets/config/default.json');
