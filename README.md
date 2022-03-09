@@ -1,6 +1,6 @@
 # server-status-api
 
-Projeto desenvolvido na aula de introdução ao [Node.js](https://nodejs.org)
+:rocket: Projeto desenvolvido para a aula de introdução ao [Node.js](https://nodejs.org) :rocket:
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green"/>
@@ -23,7 +23,7 @@ Projeto desenvolvido na aula de introdução ao [Node.js](https://nodejs.org)
 
 :small_blue_diamond: [Resolvendo Problemas](#resolvendo-problemas-exclamation)
 
-:small_blue_diamond: [Tarefas em aberto](#resolvendo-problemas-open_book)
+:small_blue_diamond: [Tarefas em aberto](#tarefas-em-aberto-open_book)
 
 :small_blue_diamond: [Desenvolvedores](#desenvolvedores-standing_person)
 
@@ -93,7 +93,7 @@ Em [issues](https://github.com/heviane/server-status-api/issues) foram abertos a
 
 :memo: Tarefa 1: Construir UI em React para consumir essa API.
 
-:memo: Tarefa 2
+:memo: Tarefa 2:
 
 ## Desenvolvedores :standing_person:
 

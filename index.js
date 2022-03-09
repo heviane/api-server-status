@@ -8,7 +8,7 @@ const networkStatus = require('./src/networkStatus');
 const host = 'localhost'; 
 const port = '3000'; 
 
-let description = '<h1>Server Status (API) in Node.js</h1>';
+let description = '<h1>API Server Status in Node.js</h1>';
 description += '<h3>Endpoints disponiveis:</h3>';
 description += '<ul>';
 description += '<li><a href="/soStatus">/soStatus</a></li>';
