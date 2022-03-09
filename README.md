@@ -9,31 +9,31 @@ Projeto desenvolvido na aula de introdução ao [Node.js](https://nodejs.org)
 
 ### Tópicos
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-1st_place_medal)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#funcionalidades-heavy_exclamation_mark)
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos-rocket)
 
-:small_blue_diamond: [Pacotes e Plugins](#pacotes-e-plugins)
+:small_blue_diamond: [Pacotes e Plugins](#pacotes-e-plugins-stuck_out_tongue_winking_eye)
 
 :small_blue_diamond: [Como rodar localmente](#como-rodar-localmente-arrow_forward)
 
 :small_blue_diamond: [Resolvendo Problemas](#resolvendo-problemas-exclamation)
 
-:small_blue_diamond: [Tarefas em aberto](#resolvendo-problemas-exclamation)
+:small_blue_diamond: [Tarefas em aberto](#resolvendo-problemas-open_book)
 
 :small_blue_diamond: [Desenvolvedores](#desenvolvedores-octocat)
 
 :small_blue_diamond: [Licence](#licence)
 
-## Descrição do projeto 🏆
+## Descrição do projeto :1st_place_medal
 
   API em [Node.js](https://nodejs.org) para retornar informações sobre o servidor.
 
-## Funcionalidades 🎯
+## Funcionalidades :heavy_exclamation_mark
 
 :heavy_check_mark: endpoint [/soStatus](http://localhost:3000/soStatus): Retorna informações sobre o sistema operacional.
 
@@ -50,7 +50,7 @@ Projeto desenvolvido na aula de introdução ao [Node.js](https://nodejs.org)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node](https://nodejs.org)
 
-## Pacotes e Plugins 🛠️
+## Pacotes e Plugins :stuck_out_tongue_winking_eye
 
 | Name | Link |
 | ---------- | ------ |
@@ -89,7 +89,7 @@ npm run dev
 
 Em [issues](https://github.com/heviane/server-status-api/issues) foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
-## Tarefas em aberto
+## Tarefas em aberto :open_book
 
 :memo: Tarefa 1: Construir UI em React para consumir essa API.
 
