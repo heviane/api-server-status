@@ -35,15 +35,15 @@
 
 ## Funcionalidades :heavy_exclamation_mark:
 
-:heavy_check_mark: endpoint [/soStatus](https://peaceful-basin-19013.herokuapp.com/soStatus): Retorna informações sobre o sistema operacional.
+:heavy_check_mark: endpoint [/soStatus](https://server-status-api.herokuapp.com/soStatus): Retorna informações sobre o sistema operacional.
 
-:heavy_check_mark: endpoint [/memoryStatus](https://peaceful-basin-19013.herokuapp.com/memoryStatus): Retorna informações sobre o status da memória.
+:heavy_check_mark: endpoint [/memoryStatus](https://server-status-api.herokuapp.com/memoryStatus): Retorna informações sobre o status da memória.
 
-:heavy_check_mark: endpoint [/networkStatus](https://peaceful-basin-19013.herokuapp.com/networkStatus): Retorna informações sobre a rede.
+:heavy_check_mark: endpoint [/networkStatus](https://server-status-api.herokuapp.com/networkStatus): Retorna informações sobre a rede.
 
 ## Deploy da Aplicação :dash:
 
-> **Heroku**: [https://peaceful-basin-19013.herokuapp.com](https://peaceful-basin-19013.herokuapp.com)
+> **Heroku**: [https://server-status-api.herokuapp.com](https://server-status-api.herokuapp.com)
 
 ## Pré-requisitos :rocket:
 
@@ -52,12 +52,11 @@
 
 ## Pacotes e Plugins :stuck_out_tongue_winking_eye:
 
-| Name | Link |
+| Name | Link | Ambiente |
 | ---------- | ------ |
-| Editor Config | [https://editorconfig.org](https://editorconfig.org) |
-| ESLint | [https://eslint.org](https://eslint.org) |
-| Nodemon | [https://nodemon.io](https://nodemon.io) |
-| Config | [https://www.npmjs.com/package/config](https://www.npmjs.com/package/config) |
+| Editor Config | [https://editorconfig.org](https://editorconfig.org) | Desenvolvimento |
+| ESLint | [https://eslint.org](https://eslint.org) | Desenvolvimento |
+| Nodemon | [https://nodemon.io](https://nodemon.io) | Desenvolvimento |
 
 ## Como rodar localmente :arrow_forward:
 
@@ -101,6 +100,6 @@ Em [issues](https://github.com/heviane/server-status-api/issues) foram abertos a
 
 ## Licence
 
-The [MIT License](https://github.com/heviane/api-monitor-memory/blob/main/LICENSE) (MIT)
+The [MIT License](https://github.com/heviane/server-status-api/blob/main/LICENSE) (MIT)
 
 Copyright :copyright: 2022 - Heviane Bastos
