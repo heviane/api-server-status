@@ -1,5 +1,7 @@
 const http = require('http');
 
+// localhost é o default para o host, quando não informado
+
 http
     .createServer((req, res) => {
         res.write('hello\n');  // executa sem finalizar
