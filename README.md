@@ -1,4 +1,4 @@
-# server-status-api: Consultar o status do servidor
+# API em Node Puro para consultar o status do servidor 🚀
 
 :rocket: Projeto desenvolvido para a aula de introdução ao [Node.js](https://nodejs.org) :rocket:
 
